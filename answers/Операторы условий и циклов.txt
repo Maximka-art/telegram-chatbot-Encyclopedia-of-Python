@@ -1,0 +1,13 @@
+Операторы условий:
+
+1. if
+2. elif
+3. else
+
+Операторы циклов:
+
+1. for
+2. while
+3. break
+4. continue
+Источник: https://docs.python.org/3/tutorial/controlflow.html

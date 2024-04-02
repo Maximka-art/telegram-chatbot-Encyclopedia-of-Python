@@ -1,0 +1,18 @@
+Для импорта модулей в Python используется ключевое слово import. Вот несколько способов импорта модулей:
+Импорт всего модуля:
+import module_name
+
+Импорт модуля с другим именем:
+import module_name as new_name
+
+Импорт конкретных объектов из модуля:
+from module_name import object_name
+
+Импорт всех объектов из модуля:
+from module_name import *
+
+Импорт модуля из другого пакета:
+from package_name import module_name
+
+После импорта модуля, вы можете использовать его объекты и функции в вашем коде.
+Источник: https://docs.python.org/3/tutorial/modules.html
